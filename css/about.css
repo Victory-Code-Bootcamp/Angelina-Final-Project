@@ -1,15 +1,21 @@
 body{
-    background-image: url("https://picsum.photos/id/684/600/400?blur=5");
+    background-color: rgb(73, 163, 214);
     background-repeat: no-repeat;
     background-size: cover;
 }
 *{
-    color: aliceblue;
-    font-size: large;
+    color: rgb(32, 33, 34);
     text-align: center;
+    font-size: large;
 }
 li{
     display: inline-flex;
     margin: 12rem;
+    font-size: xx-large;
     text-align: center;
+}
+a{
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(19, 18, 18);
 }
