@@ -1,5 +1,6 @@
 body {
     /* background-image: url("../images/Forthall.png"); */
+    background-color: rgb(73, 163, 214);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -7,13 +8,17 @@ body {
 *{
     font-family: 'Delicious Handrawn', cursive;
     font-family: 'Great Vibes', cursive;
-    color: rgb(4, 71, 131);
-    font-size: larger;
     text-align: center;
-
+    color: rgb(18, 18, 19);
 }
 li{
     display: inline-flex;
-    margin: 4rem;
+    margin: 15rem;
     text-align: center;
+    font-size: 2rem;
+    font-style: inherit;
+}
+h1{
+    font-size: 4.5rem;
+    color: antiquewhite;
 }
