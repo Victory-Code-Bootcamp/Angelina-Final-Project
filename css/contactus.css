@@ -40,7 +40,7 @@ input[type=text], select, textarea {
   }
   li{
     display: inline-flex;
-    margin: 13rem;
+    margin: 10rem;
     color: black;
   }
   a{
