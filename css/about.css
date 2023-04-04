@@ -1,0 +1,9 @@
+body{
+    background-image: url("https://picsum.photos/id/684/600/400?blur=5");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+a{
+    color: aliceblue;
+    font-size: large;
+}
