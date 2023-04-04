@@ -3,7 +3,13 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-a{
+*{
     color: aliceblue;
     font-size: large;
+    text-align: center;
+}
+li{
+    display: inline-flex;
+    margin: 12rem;
+    text-align: center;
 }
