@@ -46,3 +46,6 @@ input[type=text], select, textarea {
   a{
     font-size: xx-large;
   }
+  section{
+    width: 500px; height: 700px; 
+    }
