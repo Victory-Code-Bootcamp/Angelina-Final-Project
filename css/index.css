@@ -1,24 +1,52 @@
-body {
-    /* background-image: url("../images/Forthall.png"); */
-    background-color: rgb(73, 163, 214);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
 *{
-    font-family: 'Delicious Handrawn', cursive;
-    font-family: 'Great Vibes', cursive;
+    color: fbf9fc;
+}
+header{
+    border-style: none;
     text-align: center;
-    color: rgb(18, 18, 19);
+    margin: 4rem;
+    padding: 1rem;
+    background-color: rgb(231, 139, 174);
 }
 li{
-    display: inline-flex;
-    margin: 10rem;
+    display: inline;
+    list-style-type: none;
+    margin: 6rem;
+    padding: 0rem;
+    font-size: x-large;
     text-align: center;
-    font-size: 2rem;
-    font-style: inherit;
+    /* mouse over link */
 }
-h1{
-    font-size: 4.5rem;
-    color: antiquewhite;
+a:hover {
+    color: rgb(143, 250, 209);
+  }
+  
+  /* selected link */
+a:active {
+    color: rgb(109, 231, 174);
+}
+nav{
+    border-style: none;
+    margin: 4rem;
+    padding: 3rem;
+    background-color: rgb(231, 139, 174);
+}
+img{
+    display: inline-flex;
+    margin: 3.5rem;
+    height: 215px;
+    width: 255px;
+} 
+footer{
+    border-style: none;
+    margin: 4rem;
+    padding: 1rem;
+    background-color: rgb(231, 139, 174);
+    font-size: x-large;
+    text-align: center;
+}
+body {
+    background-image: url('/img/cuteplain.png');
+    background-repeat: inherit;
+    background-position: center;
 }
