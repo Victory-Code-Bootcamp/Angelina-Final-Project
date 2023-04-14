@@ -1,3 +1,5 @@
+MIT LICENSE
+
 License Copyright: Unknown.
 License License: Unknown.
 License Contact: Unknown.
